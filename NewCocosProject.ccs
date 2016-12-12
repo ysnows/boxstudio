@@ -1,0 +1,26 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="LoginLayer.csd" Type="Scene" />
+        <Folder Name="imgs">
+          <Folder Name="loginlayer">
+            <Image Name="beauty.png" />
+            <Image Name="bg_btn_login.png" />
+            <Image Name="bg_edt_login.png" />
+            <Image Name="bg_login.png" />
+            <Image Name="login_fram.png" />
+            <Image Name="logo.png" />
+            <Image Name="wx.png" />
+          </Folder>
+          <Folder Name="mainlayer">
+            <Image Name="bg_main.png" />
+          </Folder>
+        </Folder>
+        <Project Name="MainLayer.csd" Type="Scene" />
+        <Project Name="ForgetPwdLayer.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
