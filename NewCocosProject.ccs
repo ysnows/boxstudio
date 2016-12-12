@@ -3,7 +3,6 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Project Name="LoginLayer.csd" Type="Scene" />
         <Folder Name="imgs">
           <Folder Name="loginlayer">
             <Image Name="beauty.png" />
@@ -15,11 +14,30 @@
             <Image Name="wx.png" />
           </Folder>
           <Folder Name="mainlayer">
+            <Image Name="bg_avatar.png" />
+            <Image Name="bg_create_room.png" />
+            <Image Name="bg_join_room.png" />
             <Image Name="bg_main.png" />
+            <Image Name="bg_main_two.png" />
+            <Image Name="bg_random_room.png" />
+            <Image Name="ic_announce.png" />
+            <Image Name="icon_activity.png" />
+            <Image Name="icon_card.png" />
+            <Image Name="icon_checked.png" />
+            <Image Name="icon_feed.png" />
+            <Image Name="icon_goldcoin.png" />
+            <Image Name="icon_no_checked.png" />
+            <Image Name="icon_rules.png" />
+            <Image Name="icon_service.png" />
+            <Image Name="icon_settings.png" />
+            <Image Name="icon_shop.png" />
+            <Image Name="icon_sign.png" />
+            <Image Name="img_share_wx.png" />
           </Folder>
         </Folder>
-        <Project Name="MainLayer.csd" Type="Scene" />
         <Project Name="ForgetPwdLayer.csd" Type="Scene" />
+        <Project Name="LoginLayer.csd" Type="Scene" />
+        <Project Name="MainLayer.csd" Type="Scene" />
       </RootFolder>
     </Group>
   </SolutionFolder>
