@@ -3,7 +3,6 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Project Name="LoginLayer.csd" Type="Scene" />
         <Folder Name="imgs">
           <Folder Name="loginlayer">
             <Image Name="beauty.png" />
@@ -15,11 +14,58 @@
             <Image Name="wx.png" />
           </Folder>
           <Folder Name="mainlayer">
+            <Image Name="bg_avatar.png" />
+            <Image Name="bg_create_room.png" />
+            <Image Name="bg_join_room.png" />
             <Image Name="bg_main.png" />
+            <Image Name="bg_main_two.png" />
+            <Image Name="bg_random_room.png" />
+            <Image Name="ic_announce.png" />
+            <Image Name="icon_activity.png" />
+            <Image Name="icon_card.png" />
+            <Image Name="icon_checked.png" />
+            <Image Name="icon_feed.png" />
+            <Image Name="icon_goldcoin.png" />
+            <Image Name="icon_no_checked.png" />
+            <Image Name="icon_rules.png" />
+            <Image Name="icon_service.png" />
+            <Image Name="icon_settings.png" />
+            <Image Name="icon_shop.png" />
+            <Image Name="icon_sign.png" />
+            <Image Name="img_share_wx.png" />
+          </Folder>
+          <Folder Name="joinlayer">
+            <Image Name="bg_join.png" />
+            <Image Name="img_edt.png" />
+            <Image Name="img_input_0.png" />
+            <Image Name="img_input_1.png" />
+            <Image Name="img_input_2.png" />
+            <Image Name="img_input_3.png" />
+            <Image Name="img_input_4.png" />
+            <Image Name="img_input_5.png" />
+            <Image Name="img_input_6.png" />
+            <Image Name="img_input_7.png" />
+            <Image Name="img_input_8.png" />
+            <Image Name="img_input_9.png" />
+            <Image Name="img_input_del.png" />
+            <Image Name="img_input_rewrite.png" />
+            <Image Name="img_join.png" />
+            <Image Name="img_join_close.png" />
+          </Folder>
+          <Folder Name="createroom">
+            <Image Name="bg.png" />
+            <Image Name="bg_two.png" />
+            <Image Name="img_back.png" />
+            <Image Name="img_checked.png" />
+            <Image Name="img_complete.png" />
+            <Image Name="img_no_checked.png" />
+            <Image Name="jingdian.png" />
           </Folder>
         </Folder>
-        <Project Name="MainLayer.csd" Type="Scene" />
         <Project Name="ForgetPwdLayer.csd" Type="Scene" />
+        <Project Name="LoginLayer.csd" Type="Scene" />
+        <Project Name="MainLayer.csd" Type="Scene" />
+        <Project Name="CreateRoomLayer.csd" Type="Scene" />
       </RootFolder>
     </Group>
   </SolutionFolder>
