@@ -19,6 +19,16 @@
                 <PreSize X="1.0000" Y="1.0000" />
                 <FileData Type="Normal" Path="imgs/createroom/bg.png" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="Image_2" ActionTag="-182251759" Tag="85" IconVisible="False" LeftMargin="70.5000" RightMargin="44.5000" TopMargin="94.9802" BottomMargin="8.9802" LeftEage="573" RightEage="573" TopEage="301" BottomEage="301" Scale9OriginX="573" Scale9OriginY="301" Scale9Width="593" Scale9Height="311" ctype="ImageViewObjectData">
+                <Size X="1021.0000" Y="536.0397" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="581.0000" Y="277.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5114" Y="0.4328" />
+                <PreSize X="0.8988" Y="0.8376" />
+                <FileData Type="Normal" Path="imgs/createroom/bg_two.png" Plist="" />
+              </AbstractNodeData>
               <AbstractNodeData Name="Button_3" ActionTag="-256493635" Tag="108" IconVisible="False" LeftMargin="430.0000" RightMargin="449.0000" TopMargin="10.3958" BottomMargin="550.3958" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="6" BottomEage="6" Scale9OriginX="15" Scale9OriginY="6" Scale9Width="421" Scale9Height="127" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="257.0000" Y="79.2084" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -43,7 +53,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_0_1_0" ActionTag="1588076977" Tag="104" IconVisible="False" LeftMargin="490.5000" RightMargin="616.5000" TopMargin="325.9528" BottomMargin="283.9528" TouchEnable="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_0_1_0" ActionTag="1588076977" Tag="104" IconVisible="False" LeftMargin="490.5000" RightMargin="616.5000" TopMargin="325.9529" BottomMargin="283.9529" TouchEnable="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="505.0000" Y="299.0000" />
@@ -67,7 +77,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_1_0" ActionTag="-889055269" Tag="102" IconVisible="False" LeftMargin="280.5000" RightMargin="826.5000" TopMargin="325.9528" BottomMargin="283.9528" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_1_0" ActionTag="-889055269" Tag="102" IconVisible="False" LeftMargin="280.5000" RightMargin="826.5000" TopMargin="325.9529" BottomMargin="283.9529" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="295.0000" Y="299.0000" />
@@ -102,7 +112,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_0_0_0" ActionTag="1528541422" Tag="99" IconVisible="False" LeftMargin="707.5000" RightMargin="399.5000" TopMargin="259.9528" BottomMargin="349.9528" TouchEnable="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_0_0_0" ActionTag="1528541422" Tag="99" IconVisible="False" LeftMargin="707.5000" RightMargin="399.5000" TopMargin="259.9529" BottomMargin="349.9529" TouchEnable="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="722.0000" Y="365.0000" />
@@ -126,7 +136,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_0_1" ActionTag="1154367373" Tag="97" IconVisible="False" LeftMargin="491.5000" RightMargin="615.5000" TopMargin="259.9528" BottomMargin="349.9528" TouchEnable="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_0_1" ActionTag="1154367373" Tag="97" IconVisible="False" LeftMargin="491.5000" RightMargin="615.5000" TopMargin="259.9529" BottomMargin="349.9529" TouchEnable="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="506.0000" Y="365.0000" />
@@ -150,7 +160,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_1" ActionTag="1103302452" Tag="95" IconVisible="False" LeftMargin="281.5000" RightMargin="825.5000" TopMargin="259.9528" BottomMargin="349.9528" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_1" ActionTag="1103302452" Tag="95" IconVisible="False" LeftMargin="281.5000" RightMargin="825.5000" TopMargin="259.9529" BottomMargin="349.9529" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="296.0000" Y="365.0000" />
@@ -185,7 +195,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_0_0" ActionTag="1622314635" Tag="92" IconVisible="False" LeftMargin="710.5000" RightMargin="396.5000" TopMargin="195.9528" BottomMargin="413.9528" TouchEnable="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_0_0" ActionTag="1622314635" Tag="92" IconVisible="False" LeftMargin="710.5000" RightMargin="396.5000" TopMargin="195.9529" BottomMargin="413.9529" TouchEnable="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="725.0000" Y="429.0000" />
@@ -209,7 +219,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1_0" ActionTag="-1895759895" Tag="90" IconVisible="False" LeftMargin="494.5000" RightMargin="612.5000" TopMargin="195.9528" BottomMargin="413.9528" TouchEnable="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1_0" ActionTag="-1895759895" Tag="90" IconVisible="False" LeftMargin="494.5000" RightMargin="612.5000" TopMargin="195.9529" BottomMargin="413.9529" TouchEnable="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="509.0000" Y="429.0000" />
@@ -233,7 +243,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="CheckBox_1" ActionTag="-2045820449" Tag="88" IconVisible="False" LeftMargin="284.5000" RightMargin="822.5000" TopMargin="195.9528" BottomMargin="413.9528" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="CheckBox_1" ActionTag="-2045820449" Tag="88" IconVisible="False" LeftMargin="284.5000" RightMargin="822.5000" TopMargin="195.9529" BottomMargin="413.9529" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="29.0000" Y="30.0943" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="299.0000" Y="429.0000" />
@@ -269,16 +279,6 @@
                 <NormalFileData Type="Normal" Path="imgs/createroom/img_complete.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="Image_2" ActionTag="-182251759" Tag="85" IconVisible="False" LeftMargin="70.5000" RightMargin="44.5000" TopMargin="94.9802" BottomMargin="8.9802" LeftEage="573" RightEage="573" TopEage="301" BottomEage="301" Scale9OriginX="573" Scale9OriginY="301" Scale9Width="593" Scale9Height="311" ctype="ImageViewObjectData">
-                <Size X="1021.0000" Y="536.0397" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="581.0000" Y="277.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5114" Y="0.4328" />
-                <PreSize X="0.8988" Y="0.8376" />
-                <FileData Type="Normal" Path="imgs/createroom/bg_two.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="Button_1" ActionTag="-607330656" Tag="84" IconVisible="False" LeftMargin="28.0000" RightMargin="1017.0000" TopMargin="27.6579" BottomMargin="559.6579" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="141" Scale9Height="77" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="91.0000" Y="52.6842" />
