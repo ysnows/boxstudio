@@ -4,6 +4,33 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="imgs">
+          <Folder Name="createroom">
+            <Image Name="bg.png" />
+            <Image Name="bg_two.png" />
+            <Image Name="img_back.png" />
+            <Image Name="img_checked.png" />
+            <Image Name="img_complete.png" />
+            <Image Name="img_no_checked.png" />
+            <Image Name="jingdian.png" />
+          </Folder>
+          <Folder Name="joinlayer">
+            <Image Name="bg_join.png" />
+            <Image Name="img_edt.png" />
+            <Image Name="img_input_0.png" />
+            <Image Name="img_input_1.png" />
+            <Image Name="img_input_2.png" />
+            <Image Name="img_input_3.png" />
+            <Image Name="img_input_4.png" />
+            <Image Name="img_input_5.png" />
+            <Image Name="img_input_6.png" />
+            <Image Name="img_input_7.png" />
+            <Image Name="img_input_8.png" />
+            <Image Name="img_input_9.png" />
+            <Image Name="img_input_del.png" />
+            <Image Name="img_input_rewrite.png" />
+            <Image Name="img_join.png" />
+            <Image Name="img_join_close.png" />
+          </Folder>
           <Folder Name="loginlayer">
             <Image Name="beauty.png" />
             <Image Name="bg_btn_login.png" />
@@ -34,38 +61,21 @@
             <Image Name="icon_sign.png" />
             <Image Name="img_share_wx.png" />
           </Folder>
-          <Folder Name="joinlayer">
-            <Image Name="bg_join.png" />
-            <Image Name="img_edt.png" />
-            <Image Name="img_input_0.png" />
-            <Image Name="img_input_1.png" />
-            <Image Name="img_input_2.png" />
-            <Image Name="img_input_3.png" />
-            <Image Name="img_input_4.png" />
-            <Image Name="img_input_5.png" />
-            <Image Name="img_input_6.png" />
-            <Image Name="img_input_7.png" />
-            <Image Name="img_input_8.png" />
-            <Image Name="img_input_9.png" />
-            <Image Name="img_input_del.png" />
-            <Image Name="img_input_rewrite.png" />
-            <Image Name="img_join.png" />
-            <Image Name="img_join_close.png" />
-          </Folder>
-          <Folder Name="createroom">
-            <Image Name="bg.png" />
-            <Image Name="bg_two.png" />
-            <Image Name="img_back.png" />
-            <Image Name="img_checked.png" />
-            <Image Name="img_complete.png" />
-            <Image Name="img_no_checked.png" />
-            <Image Name="jingdian.png" />
+          <Folder Name="gamelayer">
+            <Image Name="bg_avatar.png" />
+            <Image Name="bg_main.png" />
+            <Image Name="icon_goldcoin.png" />
+            <Image Name="img_banker.png" />
+            <Image Name="img_getcard.png" />
+            <Image Name="img_pass.png" />
+            <Image Name="img_settings.png" />
           </Folder>
         </Folder>
+        <Project Name="CreateRoomLayer.csd" Type="Scene" />
         <Project Name="ForgetPwdLayer.csd" Type="Scene" />
         <Project Name="LoginLayer.csd" Type="Scene" />
         <Project Name="MainLayer.csd" Type="Scene" />
-        <Project Name="CreateRoomLayer.csd" Type="Scene" />
+        <Project Name="GameLayer.csd" Type="Scene" />
       </RootFolder>
     </Group>
   </SolutionFolder>
